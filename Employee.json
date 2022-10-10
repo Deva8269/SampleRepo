@@ -1,0 +1,102 @@
+[
+  {
+  "firstName":"ABC",
+  "lastName":"XYZ",
+  "id":1,
+  "city":"PUNE",
+  "experience":"3.5",
+  "domain":"IT",
+  "subDomain":["C","C++","JAVA","NODEJS","ANGULAR","VUE"],
+  "isActive":true
+},
+{
+  "firstName":"ABC1",
+  "lastName":"XYZ1",
+  "id":2,
+  "city":"AHMEDABAD",
+  "experience":"3.5",
+  "domain":"IT",
+  "subDomain":["C","C++","JAVA","NODEJS","ANGULAR","VUE"],
+  "isActive":true
+},
+{
+  "firstName":"ABC2",
+  "lastName":"XYZ2",
+  "id":3,
+  "city":"DELHI",
+  "experience":"10.5",
+  "domain":"IT",
+  "subDomain":["JAVA","NODEJS"],
+    "isActive":true
+},
+{
+  "firstName":"ABC3",
+  "lastName":"XYZ3",
+  "id":4,
+  "city":"GOA",
+  "experience":"4.5",
+  "domain":"IT",
+  "subDomain":["JAVA","NODEJS","PYTHON"],
+    "isActive":true
+},
+{
+  "firstName":"ABC4",
+  "lastName":"XYZ4",
+  "id":5,
+  "city":"GOA",
+  "experience":"8",
+  "domain":"IT",
+  "subDomain":["PYTHON"],
+    "isActive":true
+},
+{
+  "firstName":"ABC5",
+  "lastName":"XYZ5",
+  "id":6,
+  "city":"PUNE",
+  "experience":"5",
+  "domain":"IT",
+  "subDomain":["PYTHON"],
+    "isActive":true
+},
+{
+  "firstName":"ABC6",
+  "lastName":"XYZ6",
+  "id":7,
+  "city":"DELHI",
+  "experience":"6",
+  "domain":"IT",
+  "subDomain":["JAVA"],
+  "isActive":true
+},
+{
+  "firstName":"ABC7",
+  "lastName":"XYZ7",
+  "id":8,
+  "city":"DELHI",
+  "experience":"2",
+  "domain":"ADMIN",
+  "subDomain":["NETWORKING","HARDWARE_INSTALLATION"],
+  "isActive":false
+},
+{
+  "firstName":"ABC8",
+  "lastName":"XYZ8",
+  "id":9,
+  "city":"PUNE",
+  "experience":"6",
+  "domain":"ADMIN",
+  "subDomain":["NETWORKING","HARDWARE_INSTALLATION","OPERATIONS"],
+    "isActive":true
+},
+{
+  "firstName":"ABC9",
+  "lastName":"XYZ9",
+  "id":10,
+  "city":"GOA",
+  "experience":"6",
+  "domain":"ADMIN",
+  "subDomain":["NETWORKING","HARDWARE_INSTALLATION","OPERATIONS"],
+    "isActive":true
+}
+]

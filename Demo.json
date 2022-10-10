@@ -1,0 +1,20 @@
+[ 
+	{
+  "firstName":"ABC1",
+  "lastName":"XYZ1",
+  "id":2,
+  "city":"AHMEDABAD",
+  "experience":"5.5",
+  "domain":"IT",
+  "isActive":true
+    },
+    {
+  "firstName":"ABC1",
+  "lastName":"XYZ1",
+  "id":2,
+  "city":"AHMEDABAD",
+  "experience":"5.5",
+  "domain":"IT",
+  "isActive":true
+}
+]
