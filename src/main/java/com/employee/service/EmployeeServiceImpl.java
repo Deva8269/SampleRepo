@@ -108,7 +108,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 			List<Object> list1 = new ArrayList<>();
 			Map<String, Object> inmap = new HashMap<>();
 			for (Employee emp : empData) {
-				if (s.equals(emp.getDomain())) {
+				if (s.equals(emp.getDomain()) && emp.getCity().equals(city)) {
 
 					empCount++;
 					list1.add(emp);
